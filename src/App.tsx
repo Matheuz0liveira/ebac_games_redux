@@ -8,7 +8,7 @@ export type Game = {
   id: number
   titulo: string
   plataformas: string[]
-  precoAntigo: number
+  prec0Antigo: number
   preco: number
   categoria: string
   imagem: string
